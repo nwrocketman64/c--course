@@ -1,0 +1,15 @@
+/home/pi/Documents/c#-course/section1/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/pi/Documents/c#-course/section1/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/pi/Documents/c#-course/section1/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/pi/Documents/c#-course/section1/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/pi/Documents/c#-course/section1/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/pi/Documents/c#-course/section1/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/pi/Documents/c#-course/section1/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/pi/Documents/c#-course/section1/ElizalsSilly/bin/Debug/net6.0/ElizalsSilly
+/home/pi/Documents/c#-course/section1/ElizalsSilly/bin/Debug/net6.0/ElizalsSilly.deps.json
+/home/pi/Documents/c#-course/section1/ElizalsSilly/bin/Debug/net6.0/ElizalsSilly.runtimeconfig.json
+/home/pi/Documents/c#-course/section1/ElizalsSilly/bin/Debug/net6.0/ElizalsSilly.dll
+/home/pi/Documents/c#-course/section1/ElizalsSilly/bin/Debug/net6.0/ref/ElizalsSilly.dll
+/home/pi/Documents/c#-course/section1/ElizalsSilly/bin/Debug/net6.0/ElizalsSilly.pdb
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.csproj.AssemblyReference.cache
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.AssemblyInfoInputs.cache
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.AssemblyInfo.cs
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.csproj.CoreCompileInputs.cache
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.dll
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ref/ElizalsSilly.dll
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.pdb
+/home/pi/Documents/c#-course/section1/ElizalsSilly/obj/Debug/net6.0/ElizalsSilly.genruntimeconfig.cache
