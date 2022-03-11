@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/bin/Debug/net7.0/StringFormatting
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/bin/Debug/net7.0/StringFormatting.deps.json
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/bin/Debug/net7.0/StringFormatting.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/bin/Debug/net7.0/StringFormatting.dll
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/bin/Debug/net7.0/StringFormatting.pdb
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.dll
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/refint/StringFormatting.dll
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.pdb
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/StringFormatting.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section3/StringFormatting/obj/Debug/net7.0/ref/StringFormatting.dll

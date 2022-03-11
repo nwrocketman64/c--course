@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section3/UserInput/bin/Debug/net7.0/UserInput
+/home/pi/Documents/Udemy/c--course/section3/UserInput/bin/Debug/net7.0/UserInput.deps.json
+/home/pi/Documents/Udemy/c--course/section3/UserInput/bin/Debug/net7.0/UserInput.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section3/UserInput/bin/Debug/net7.0/UserInput.dll
+/home/pi/Documents/Udemy/c--course/section3/UserInput/bin/Debug/net7.0/UserInput.pdb
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.dll
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/refint/UserInput.dll
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.pdb
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/UserInput.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section3/UserInput/obj/Debug/net7.0/ref/UserInput.dll
