@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/bin/Debug/net7.0/Accuracy
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/bin/Debug/net7.0/Accuracy.deps.json
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/bin/Debug/net7.0/Accuracy.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/bin/Debug/net7.0/Accuracy.dll
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/bin/Debug/net7.0/Accuracy.pdb
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.dll
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/refint/Accuracy.dll
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.pdb
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/Accuracy.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section4/Accuracy/obj/Debug/net7.0/ref/Accuracy.dll

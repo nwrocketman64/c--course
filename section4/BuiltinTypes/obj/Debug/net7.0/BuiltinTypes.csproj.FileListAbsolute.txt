@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/bin/Debug/net7.0/BuiltinTypes
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/bin/Debug/net7.0/BuiltinTypes.deps.json
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/bin/Debug/net7.0/BuiltinTypes.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/bin/Debug/net7.0/BuiltinTypes.dll
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/bin/Debug/net7.0/BuiltinTypes.pdb
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.dll
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/refint/BuiltinTypes.dll
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.pdb
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/BuiltinTypes.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section4/BuiltinTypes/obj/Debug/net7.0/ref/BuiltinTypes.dll

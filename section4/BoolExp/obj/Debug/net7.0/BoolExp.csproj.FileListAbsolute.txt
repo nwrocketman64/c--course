@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/bin/Debug/net7.0/BoolExp
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/bin/Debug/net7.0/BoolExp.deps.json
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/bin/Debug/net7.0/BoolExp.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/bin/Debug/net7.0/BoolExp.dll
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/bin/Debug/net7.0/BoolExp.pdb
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.dll
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/refint/BoolExp.dll
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.pdb
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/BoolExp.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section4/BoolExp/obj/Debug/net7.0/ref/BoolExp.dll
