@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/bin/Debug/net7.0/ForLoop
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/bin/Debug/net7.0/ForLoop.deps.json
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/bin/Debug/net7.0/ForLoop.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/bin/Debug/net7.0/ForLoop.dll
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/bin/Debug/net7.0/ForLoop.pdb
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.dll
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/refint/ForLoop.dll
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.pdb
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ForLoop.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section5/ForLoop/obj/Debug/net7.0/ref/ForLoop.dll
