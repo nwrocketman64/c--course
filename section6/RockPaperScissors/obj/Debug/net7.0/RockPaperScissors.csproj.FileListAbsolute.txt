@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.deps.json
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.dll
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.pdb
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.dll
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/refint/RockPaperScissors.dll
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.pdb
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section6/RockPaperScissors/obj/Debug/net7.0/ref/RockPaperScissors.dll

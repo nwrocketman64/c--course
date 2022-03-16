@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section7/CarGame/bin/Debug/net7.0/CarGame
+/home/pi/Documents/Udemy/c--course/section7/CarGame/bin/Debug/net7.0/CarGame.deps.json
+/home/pi/Documents/Udemy/c--course/section7/CarGame/bin/Debug/net7.0/CarGame.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section7/CarGame/bin/Debug/net7.0/CarGame.dll
+/home/pi/Documents/Udemy/c--course/section7/CarGame/bin/Debug/net7.0/CarGame.pdb
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.dll
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/refint/CarGame.dll
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.pdb
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/CarGame.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section7/CarGame/obj/Debug/net7.0/ref/CarGame.dll

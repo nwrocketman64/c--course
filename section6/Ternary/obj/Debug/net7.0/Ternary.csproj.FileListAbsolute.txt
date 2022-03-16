@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section6/Ternary/bin/Debug/net7.0/Ternary
+/home/pi/Documents/Udemy/c--course/section6/Ternary/bin/Debug/net7.0/Ternary.deps.json
+/home/pi/Documents/Udemy/c--course/section6/Ternary/bin/Debug/net7.0/Ternary.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section6/Ternary/bin/Debug/net7.0/Ternary.dll
+/home/pi/Documents/Udemy/c--course/section6/Ternary/bin/Debug/net7.0/Ternary.pdb
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.dll
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/refint/Ternary.dll
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.pdb
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/Ternary.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section6/Ternary/obj/Debug/net7.0/ref/Ternary.dll
