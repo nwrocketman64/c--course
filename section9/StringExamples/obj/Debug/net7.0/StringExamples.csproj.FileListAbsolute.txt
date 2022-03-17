@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/bin/Debug/net7.0/StringExamples
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/bin/Debug/net7.0/StringExamples.deps.json
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/bin/Debug/net7.0/StringExamples.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/bin/Debug/net7.0/StringExamples.dll
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/bin/Debug/net7.0/StringExamples.pdb
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.dll
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/refint/StringExamples.dll
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.pdb
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/StringExamples.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section9/StringExamples/obj/Debug/net7.0/ref/StringExamples.dll

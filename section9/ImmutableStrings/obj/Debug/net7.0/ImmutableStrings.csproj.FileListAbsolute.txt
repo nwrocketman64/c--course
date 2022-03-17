@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/bin/Debug/net7.0/ImmutableStrings
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/bin/Debug/net7.0/ImmutableStrings.deps.json
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/bin/Debug/net7.0/ImmutableStrings.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/bin/Debug/net7.0/ImmutableStrings.dll
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/bin/Debug/net7.0/ImmutableStrings.pdb
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.dll
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/refint/ImmutableStrings.dll
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.pdb
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ImmutableStrings.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section9/ImmutableStrings/obj/Debug/net7.0/ref/ImmutableStrings.dll

@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/bin/Debug/net7.0/AirportModel
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/bin/Debug/net7.0/AirportModel.deps.json
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/bin/Debug/net7.0/AirportModel.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/bin/Debug/net7.0/AirportModel.dll
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/bin/Debug/net7.0/AirportModel.pdb
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.dll
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/refint/AirportModel.dll
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.pdb
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/AirportModel.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section10/AirportModel/obj/Debug/net7.0/ref/AirportModel.dll

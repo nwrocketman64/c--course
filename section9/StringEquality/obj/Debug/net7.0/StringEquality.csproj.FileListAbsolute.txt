@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/bin/Debug/net7.0/StringEquality
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/bin/Debug/net7.0/StringEquality.deps.json
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/bin/Debug/net7.0/StringEquality.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/bin/Debug/net7.0/StringEquality.dll
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/bin/Debug/net7.0/StringEquality.pdb
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.dll
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/refint/StringEquality.dll
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.pdb
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/StringEquality.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section9/StringEquality/obj/Debug/net7.0/ref/StringEquality.dll

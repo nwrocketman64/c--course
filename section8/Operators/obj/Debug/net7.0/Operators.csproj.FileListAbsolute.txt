@@ -1,0 +1,15 @@
+/home/pi/Documents/Udemy/c--course/section8/Operators/bin/Debug/net7.0/Operators
+/home/pi/Documents/Udemy/c--course/section8/Operators/bin/Debug/net7.0/Operators.deps.json
+/home/pi/Documents/Udemy/c--course/section8/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/home/pi/Documents/Udemy/c--course/section8/Operators/bin/Debug/net7.0/Operators.dll
+/home/pi/Documents/Udemy/c--course/section8/Operators/bin/Debug/net7.0/Operators.pdb
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.dll
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/refint/Operators.dll
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.pdb
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/home/pi/Documents/Udemy/c--course/section8/Operators/obj/Debug/net7.0/ref/Operators.dll
